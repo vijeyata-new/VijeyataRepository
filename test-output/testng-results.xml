@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite" duration-ms="135970" started-at="2021-01-10T08:57:37Z" finished-at="2021-01-10T08:59:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="135970" started-at="2021-01-10T08:57:37Z" finished-at="2021-01-10T08:59:53Z">
+      <class name="mvnpkg.AmazonPr">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mvnpkg.AmazonPr@29774679]" name="setUp" is-config="true" duration-ms="25264" started-at="2021-01-10T14:27:37Z" finished-at="2021-01-10T14:28:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:mvnpkg.AmazonPr@29774679]" name="launchSite" duration-ms="12899" started-at="2021-01-10T14:28:03Z" finished-at="2021-01-10T14:28:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSite -->
+        <test-method status="PASS" signature="search()[pri:1, instance:mvnpkg.AmazonPr@29774679]" name="search" duration-ms="14390" started-at="2021-01-10T14:28:15Z" finished-at="2021-01-10T14:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="selectp()[pri:2, instance:mvnpkg.AmazonPr@29774679]" name="selectp" duration-ms="6558" started-at="2021-01-10T14:28:30Z" finished-at="2021-01-10T14:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectp -->
+        <test-method status="PASS" signature="newTabs()[pri:3, instance:mvnpkg.AmazonPr@29774679]" name="newTabs" duration-ms="12705" started-at="2021-01-10T14:28:36Z" finished-at="2021-01-10T14:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTabs -->
+        <test-method status="PASS" signature="login()[pri:4, instance:mvnpkg.AmazonPr@29774679]" name="login" duration-ms="64072" started-at="2021-01-10T14:28:49Z" finished-at="2021-01-10T14:29:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- mvnpkg.AmazonPr -->
+    </test> <!-- Test -->
+  </suite> <!-- suite -->
+</testng-results>
